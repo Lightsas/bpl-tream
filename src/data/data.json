@@ -1,0 +1,61 @@
+[{
+    "salary": 500,
+    "name": "Shakib All Hasan",
+    "image": "https://www.crictracker.com/wp-content/uploads/2019/10/Shakib-Al-Hasan-1-1.jpg"
+  }, {
+    "salary": 450,
+    "name": "Tamim Iqbal",
+    "image": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/tamim_67.jpg?itok=ZtQp9p15"
+  }, {
+    "salary": 400,
+    "name": "Mosfiqur Rahim",
+    "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/rahim150601.jpg"
+  }, {
+    "salary": 350,
+    "name": "Mahamudula",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/492.png"
+  }, {
+    "salary": 300,
+    "name": "Mostafijar Rahman",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1594.png"
+  }, {
+    "salary": 250,
+    "name": "Rubel Hossain",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1135.png"
+  }, {
+    "salary": 200,
+    "name": "Mashrafe Mortaza",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/391.png"
+  }, {
+    "salary": 150,
+    "name": "Mehidy Hasan",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1597.png"
+  }, {
+    "salary": 100,
+    "name": "Liton Das",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1596.png"
+  }, {
+    "salary": 120,
+    "name": "Somya Sarker",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1919.png"
+  }, {
+    "salary": 130,
+    "name": "Sabbir Rahman",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1734.png"
+  }, {
+    "salary": 140,
+    "name": "Asraful",
+    "image": "https://st2.cricketcountry.com/wp-content/uploads/cricket/image_20130707155039.jpg"
+  }, {
+    "salary": 150,
+    "name": "Mosaddek Hossain",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1588.png"
+  }, {
+    "salary": 170,
+    "name": "Mahedi Hasan",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1597.png"
+  }, {
+    "salary": 180,
+    "name": "Mohammad Mithun",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1733.png"
+  }]
